@@ -5,7 +5,7 @@ from time import *
 import os
 #Creating screen object from turtle
 sc = turtle.Screen()
-
+#wow
 #Creating six turtles to represent the number of dice
 #And hiding them, to let them appear on the screen later
 one = turtle.Turtle()
